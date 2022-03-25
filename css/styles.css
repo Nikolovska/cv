@@ -1,6 +1,11 @@
 body {
-    background-color:#EAF6F6 ;
-}
+    font-family: "Montserrat";
+    background-color:#fff ;
+/*     background-color:#EAF6F6 ; */   
+ } 
+    
+    
+
 
 h1 {
     color: #69DADB;
@@ -8,14 +13,7 @@ h1 {
 h3 {
     color: #66BFBF;
 }
-/*
-h1 {
-    color: #11999E;
-}
-h3 {
-    color: #30E3CA;
-}
-*/
+
 hr {
   
     border-style:none;
