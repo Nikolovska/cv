@@ -1,7 +1,8 @@
 body {
-    font-family: "Montserrat";
-    background-color:#fff ;
-/*     background-color:#EAF6F6 ; */   
+    font-family: "Montserrat";    
+     background-color:#EAF6F6 ; 
+     color: #40514E;
+     font-size: 1.3rem;       
  } 
 
 h1 {
